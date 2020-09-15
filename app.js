@@ -1,3 +1,12 @@
+var play = confirm ("Apni ki Bagh Bondi khelte can");
+
+
+if (play) alert ("To Start Playing game Press 'OK'");
+
+
+else {alert("Kno Khelben Na?")}
+
+
 var count=0;
 
 
