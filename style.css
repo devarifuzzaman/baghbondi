@@ -1,0 +1,22 @@
+h2{
+    color: teal;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 150px;
+}
+
+.gamebox{
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.box{
+
+    height:100px;
+    width: 100px;
+    border: 5px solid gold;
+    float: left;
+    font-size: 50px;
+    color: red;
+}
